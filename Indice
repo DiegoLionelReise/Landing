@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reise Hub - Capacitación, Desarrollo y Coaching</title>
+  <!-- Vinculamos el CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- 1. Portada -->
+  <header class="hero">
+    <h1>Evolución constante.</h1>
+    <p>En Reise fusionamos capacitación y coaching en herramientas de cambio, impulsando cada espacio de tu organización hacia su máximo potencial.</p>
+  </header>
+
+  <!-- 2. ¿Por qué elegirnos? -->
+  <section id="porque-elegirnos">
+    <h2>¿Por qué elegirnos?</h2>
+    <p>
+      Más de 20 años siendo protagonistas en el desarrollo y la transformación de profesionales y equipos, nos confirman que el aula es un lugar potente para generar impacto, y que una buena conversación de coaching puede generar grandes posibilidades de futuro.
+    </p>
+  </section>
+
+  <!-- 3. ¿Por qué Reise? -->
+  <section id="porque-reise">
+    <h2>¿Por qué Reise?</h2>
+    <p><strong>Reise:</strong> Viaje</p>
+    <p>En REISE, creemos que el aprendizaje es un viaje: no se trata solo de llegar, sino de lo que descubres, experimentas y transformas en el camino.</p>
+    <p>El origen de la palabra “Reise” encuentra algunos matices que lo diferencian, pero lejos de distanciarlos, los complementa.</p>
+    <p>Desde el alemán "Reise" resalta el proceso y la experiencia del recorrido, no solo el punto de partida.</p>
+    <p>Desde el noruego, "Reise" tiene una fuerte connotación de partir hacia algo nuevo, subrayando el momento de inicio y el impulso del viaje.</p>
+    <p>Así, REISE se convierte en un símbolo poderoso del viaje formativo: el inicio, el recorrido y la transformación.</p>
+  </section>
+
+  <!-- 4. ¿Cómo podemos agregar valor a tu organización? -->
+  <section id="servicios">
+    <h2>¿Cómo podemos agregar valor a tu organización?</h2>
+    <h3>Servicios</h3>
+    <ul>
+      <li>Capacitación</li>
+      <li>Formación</li>
+      <li>Entrenamientos</li>
+      <li>Coaching Organizacional</li>
+      <li>Coaching de equipos</li>
+      <li>Coaching Ejecutivo</li>
+      <li>Coaching de Carrera</li>
+      <li>Coaching de Vida</li>
+    </ul>
+    <h3>Características de cada servicio</h3>
+    <ul>
+      <li><strong>Un viaje de valor:</strong> donde cada experiencia aporta aprendizaje real y aplicable.</li>
+      <li><strong>Un camino innovador:</strong> en formatos, métodos y herramientas.</li>
+      <li><strong>Un recorrido de autodescubrimiento:</strong> donde cada persona es protagonista de su desarrollo.</li>
+      <li><strong>Un viaje compartido:</strong> donde el aprendizaje es colaborativo y significativo.</li>
+      <li><strong>Una experiencia memorable:</strong> donde el proceso es tan valioso como el resultado.</li>
+    </ul>
+  </section>
+
+  <!-- 5. Nuestros clientes -->
+  <section id="clientes">
+    <h2>Nuestros clientes</h2>
+    <p>PwC, Givaudane, Hitech, VDH, Eresagro, Estudio Shakespear, Novakorp, ODAR</p>
+  </section>
+
+  <!-- 6. Quiénes Somos -->
+  <section id="quienes-somos">
+    <h2>¿Quiénes Somos?</h2>
+    <p><strong>Diego Lionel Gonzalez</strong> (Fundador)</p>
+    <p><strong>María Belen Maté</strong> (Senior Partner)</p>
+  </section>
+
+  <!-- 7. Contacto -->
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Email: <a href="mailto:diego@reisehub.xyz">diego@reisehub.xyz</a></p>
+    <p>Teléfono: MOvi: +54 9 11 5104 1491</p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Reise Hub. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
