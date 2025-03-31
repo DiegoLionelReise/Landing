@@ -47,17 +47,43 @@ section h2 {
   font-size: 2rem;
 }
 
-/* Listas */
-ul {
+/* Opción 5: Viñetas estilizadas para listas generales */
+ul.custom-bullet {
   list-style: none;
-  padding: 0;
+  padding-left: 0;
 }
 
-ul li {
-  background-color: #FFC857;
-  margin: 10px 0;
-  padding: 10px;
-  border-radius: 5px;
+ul.custom-bullet li {
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 10px;
+}
+
+ul.custom-bullet li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 12px;
+  height: 12px;
+  background-color: #FFC857;  /* Color acorde a la paleta */
+  border-radius: 50%;
+}
+
+/* Lista con emojis para características de servicio */
+ul.emoji-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.emoji-list li {
+  margin-bottom: 10px;
+}
+
+ul.emoji-list li::before {
+  content: "🚀";  /* Puedes cambiar el emoji a otro de tu preferencia */
+  margin-right: 10px;
 }
 
 /* Footer */
